@@ -1,0 +1,29 @@
+{
+    "menuOptions": [
+        {
+            "name": "Inicio",
+            "icon": "pi-video",
+            "path": "/"
+        },
+        {
+            "name": "Estadisticas",
+            "icon": "pi-users",
+            "path": "/add-income"
+        },
+        {
+            "name": "Lista de Compras",
+            "icon": "pi-calendar",
+            "path": "/add-spent"
+        },
+        {
+            "name": "Perfil",
+            "icon": "pi-cog",
+            "path": "/home"
+        },
+        {
+            "name": "Cerrar Sesión",
+            "icon": "pi-power-off",
+            "path": "/logout"
+        }
+    ]
+}
